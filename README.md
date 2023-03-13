@@ -1,4 +1,4 @@
-# Outreachy_hellosongi_2023
+# Outreachy_hellosongi_2022
 
 Climate change is a pressing global issue that affects everyone and everything on the planet. It is caused by human activities such as burning fossil fuels, deforestation, and industrial processes that emit greenhouse gases (GHGs) into the atmosphere. These gases trap heat from the sun and cause the earth's temperature to rise, leading to various consequences such as more frequent and severe heatwaves, droughts, floods, and storms, rising sea levels, and loss of biodiversity.
 
